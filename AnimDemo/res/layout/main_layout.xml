@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<Button 
+	    android:id="@+id/btn01"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:text="当面付动画"
+	    android:onClick="intoFacePay"/>
+	<Button 
+	    android:id="@+id/btn02"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:text="列表删除item效果"
+	    android:onClick="intoSlidecut"/>
+	<Button 
+	    android:id="@+id/btn03"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:text="滑动demo"
+	    android:onClick="intoScrollDemo"/>
+
+</LinearLayout>

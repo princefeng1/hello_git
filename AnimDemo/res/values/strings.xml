@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AnimDemo</string>
+
+    <string name="facepay_select_pay_text">我要付款</string>
+    <string name="facepay_select_receipt_text">我要收款</string>
+</resources>
